@@ -1,0 +1,24 @@
+
+*{
+    margin: 0;
+}
+.pratice{
+    height: 100vh;
+    width: 40%;
+}
+.pratice{
+    background-image: url("photo/backyard-garden-03_2048x2048.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    position:relative;
+}
+.txt{
+    display: flex;
+    justify-content: center;
+    
+}
+.caption{
+    display: flex;
+    
+    align-items: flex-end;
+}
